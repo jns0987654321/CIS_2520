@@ -1,0 +1,10 @@
+Insert John 75
+Insert Mary 80
+Delete
+Insert Pete 90
+Insert Liz 85
+Insert Bob 99
+Delete
+Delete
+Delete
+Delete
